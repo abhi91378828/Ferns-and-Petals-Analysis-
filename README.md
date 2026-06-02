@@ -82,7 +82,7 @@ The objective of this project was to identify key revenue drivers, customer spen
 
 ## Dashboard Preview
 
-"C:\Users\91913\Pictures\Screenshots\Screenshot 2026-06-02 165610.png"
+<img width="1608" height="746" alt="Screenshot 2026-06-02 165610" src="https://github.com/user-attachments/assets/54f7ce2e-448d-4912-996b-e12ea8f6078c" />
 
 ## Author
 
